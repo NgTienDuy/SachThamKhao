@@ -3,6 +3,7 @@
 Thư viện các tài liệu sắp xếp theo lĩnh vực 
 
 ## Cấu trúc
+<pre> ```text
 ├── Khoa học Tự nhiên/
 │   ├── Toán học và Thống kê
 │   ├── Khoa học Máy tính và Thông tin
@@ -59,4 +60,6 @@ Thư viện các tài liệu sắp xếp theo lĩnh vực
     ├── Triết học
     ├── Thần học
     ├── Văn hóa
+
     └── Nghệ thuật
+``` </pre>
